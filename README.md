@@ -14,11 +14,15 @@ Extending the algorithm using the 1-vs-rest approach for multi-class classificat
 Evaluate classification accuracies and explore regularization effects.
 
 
+<img width="584" alt="Perceptron Performance" src="https://github.com/GiridharDhanapal/Classification-Using-Perceptron-Algorithm/assets/117945886/3b93fbef-2295-4cf4-b082-d9e1ecb1964e">
+
+
 ## Dataset
 
 **The project utilizes two datasets:**
 
 Train data: Training data for model training.
+
 Test data: Test data for evaluating model performance.
 
 ## Usage
